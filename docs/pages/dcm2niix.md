@@ -1,5 +1,5 @@
 ---
-title: Continuous integration
+title: Dicom 2 Nifti
 layout: default
 ---
 
