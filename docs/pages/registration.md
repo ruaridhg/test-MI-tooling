@@ -1,9 +1,9 @@
 ---
-title: Documentation
+title: Registration
 layout: default
 ---
 
-## Documentation
+## Registration
 
 With Python, as with many other languages, it's very common to automatically
 create a web page with documentation. This can include reference for the API
